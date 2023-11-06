@@ -18,6 +18,8 @@ https://www.drawio.com/blog/diagrams-offline
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
+![image](https://github.com/toarnabtrainer/USA_BA_240/assets/111301975/81a83e28-0982-4c28-bd9c-9cc05dd92d3b)
+
 **Example User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
